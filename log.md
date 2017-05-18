@@ -23,7 +23,7 @@
 
 **Thoughts**: Bootstrap is cool and fun. But I do have to keep notebook and pen closeby while learning all the bootrap css classes.
 
-**Links**
+**Links**:
 1. https://codepen.io/BohemianCodes/full/eWLRKG/
 2. https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-Essential-Training/372545-2.html
 
