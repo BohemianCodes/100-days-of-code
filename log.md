@@ -17,6 +17,16 @@
 **Link to work**: https://codepen.io/BohemianCodes/full/eWLRKG/
 
 
+### Day 3: May 18, 2017
+
+**Today's Progress**: Finished the Tribute Page on freeCodeCamp, continued with Ray Villalobos' course "Bootstrap 4" on lynda.com
+
+**Thoughts** Bootstrap is cool and fun. But I do have to keep notebook and pen closeby while learning all the bootrap classes.
+
+**Links**
+1. https://codepen.io/BohemianCodes/full/eWLRKG/
+2. https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-Essential-Training/372545-2.html
+
 <!--### Day 1: June 27, Monday
 
 <!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
