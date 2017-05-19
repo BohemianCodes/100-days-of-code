@@ -27,6 +27,16 @@
 1. https://codepen.io/BohemianCodes/full/eWLRKG/
 2. https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-Essential-Training/372545-2.html
 
+### Day 4: May 19, 2017
+
+**Today's Progress**: In order to be able to build freeCodeCamp's second project (a single-page Bootstrap portfolio page) I continued with Ray's awesome "Bootstrap 4" course. I implemented some of the things I learnt into my existing Jim Jarmusch-tribute page. 
+
+**Thoughts**: I am delighted by how great it is to learn Bootstrap and how much fun it is to use it. I understand that learning mobile-first and general responsive design will be a key skil for future jobs.
+
+<!--**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
 <!--### Day 1: June 27, Monday
 
 <!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
