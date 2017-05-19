@@ -29,7 +29,7 @@
 
 ### Day 4: May 19, 2017
 
-**Today's Progress**: In order to be able to build freeCodeCamp's second project (a single-page Bootstrap portfolio site) I continued with Ray's awesome "Bootstrap 4" course. I implemented some of the things I learnt into my existing Jim Jarmusch-tribute page. 
+**Today's Progress**: In order to be able to build freeCodeCamp's second project (a single-page Bootstrap portfolio site) I continued with Ray's awesome "Bootstrap 4" course. I implemented some of the things I learnt into my existing Jim Jarmusch-tribute page. After, I worked a few hours on my website http://www.bohemiancodes.com/education
 
 **Thoughts**: I am delighted by how great it is to learn Bootstrap and how much fun it is to use it. I understand that learning mobile-first and general responsive design is a key skill for future jobs.
 
