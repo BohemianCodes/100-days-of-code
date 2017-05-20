@@ -33,9 +33,14 @@
 
 **Thoughts**: I am delighted by how great it is to learn Bootstrap and how much fun it is to use it. I understand that learning mobile-first and general responsive design is a key skill for future jobs.
 
-<!--**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 5: May 20, 2017
+
+**Today's Progress**: Going wild with Bootstrap again. Ray's Bootstrap 4 course and advancing slooooowwwwwly with my freeCodeCamp portfolio project. 
+
+**Thoughts**: Phew. Almost a full day working with Bootstrap. I find it more confusing that CSS, probably because I work with only a little knowledge while I feel quite confident with CSS already.
+
+**Link to work**
+1. [Portfolio on Codepen] http://codepen.io/BohemianCodes/full/LygZdr
 
 <!--### Day 1: June 27, Monday
 
@@ -46,3 +51,4 @@
 <!--**Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
