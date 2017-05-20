@@ -35,12 +35,13 @@
 
 ### Day 5: May 20, 2017
 
-**Today's Progress**: Going wild with Bootstrap again. Ray's Bootstrap 4 course and advancing slooooowwwwwly with my freeCodeCamp portfolio project. 
+**Today's Progress**: A full Bootstrap Saturday. Ray's Bootstrap 4 course and advancing slooooowwwwwly with my freeCodeCamp portfolio project. 
 
-**Thoughts**: Phew. Almost a full day working with Bootstrap. I find it more confusing that CSS, probably because I work with only a little knowledge while I feel quite confident with CSS already.
+**Thoughts**: Today I found Bootstraß way more confusing that CSS, probably because I work with only a little knowledge while I feel quite confident with CSS already. I am happy with the look of the page though.
 
 **Link to work**
 1. [Portfolio on Codepen] http://codepen.io/BohemianCodes/full/LygZdr
+--> from Challenge on freeCodeCamp: https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage
 
 <!--### Day 1: June 27, Monday
 
