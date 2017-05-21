@@ -33,11 +33,21 @@
 
 **Thoughts**: I am delighted by how great it is to learn Bootstrap and how much fun it is to use it. I understand that learning mobile-first and general responsive design is a key skill for future jobs.
 
-### Day 5: May 20, 2017
+### Day 5: May 20, Saturday
 
 **Today's Progress**: A full Bootstrap Saturday. Ray's course again, and advancing slooooowwwwwly with my freeCodeCamp portfolio project. 
 
 **Thoughts**: Today I found Bootstrap confusing, probably because I work with only a little knowledge while I feel quite confident with CSS already. I am happy with the look of the page though.
+
+**Link to work**
+1. [Portfolio on Codepen] http://codepen.io/BohemianCodes/full/LygZdr <br>
+--> from Challenge on freeCodeCamp: https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage
+
+### Day 6: May 21, Sunday
+
+**Today's Progress**: finished the portfolio-challenge on freeCodeCamp.
+
+**Thoughts**: yay
 
 **Link to work**
 1. [Portfolio on Codepen] http://codepen.io/BohemianCodes/full/LygZdr <br>
@@ -53,3 +63,12 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
+<!--### Day 1: June 27, Monday
+
+<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+<!--**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
