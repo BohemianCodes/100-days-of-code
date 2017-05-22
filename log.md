@@ -53,15 +53,12 @@
 1. [Portfolio on Codepen] http://codepen.io/BohemianCodes/full/LygZdr <br>
 --> from Challenge on freeCodeCamp: https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage
 
-<!--### Day 1: June 27, Monday
+### Day 7: May 22, Monday
 
-<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Finally tipped my toe into JavaScript. Not much of coding today, rather setting myself up for learning how to actually program!... I &hearts; lynda.com
 
 <!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-<!--**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 <!--### Day 1: June 27, Monday
 
