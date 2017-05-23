@@ -40,7 +40,7 @@
 **Thoughts**: Today I found Bootstrap confusing, probably because I work with only a little knowledge while I feel quite confident with CSS already. I am happy with the look of the page though.
 
 **Link to work**
-1. [Portfolio on Codepen] http://codepen.io/BohemianCodes/full/LygZdr <br>
+[Portfolio on Codepen] http://codepen.io/BohemianCodes/full/LygZdr <br>
 --> from Challenge on freeCodeCamp: https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage
 
 ### Day 6: May 21, Sunday
@@ -50,15 +50,38 @@
 **Thoughts**: yay
 
 **Link to work**
-1. [Portfolio on Codepen] http://codepen.io/BohemianCodes/full/LygZdr <br>
+[Portfolio on Codepen] http://codepen.io/BohemianCodes/full/LygZdr <br>
 --> from Challenge on freeCodeCamp: https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage
 
 ### Day 7: May 22, Monday
 
-**Today's Progress**: Finally tipped my toe into JavaScript. Not much of coding today, rather setting myself up for learning how to actually program!... I &hearts; lynda.com
+**Today's Progress**: Finally tipped my toe into JavaScript. Not much of coding today, rather setting myself up for learning how to actually program!...
+
+**Thoughts**: I &hearts; lynda.com
+
+**Link to course**
+JavaScript Essential Training by Morten-Rand Hendriksen https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html
+
+
+### Day 8: May 23, Tuesday
+
+**Today's Progress**: Continued with Simon Allardice's course "Programming Foundations" on lynda.com and learnt the meaning of functions & parameters.  
+
+**Thoughts**: I know I am supposed to actually code myself every day, but I can't commit to that always. As long as I have a full time job and return home drained, I am happy I am able to follow and understand some of the basics of JavaScript. 
+
+**Link to course**
+Programming Foundations: Fundamentals by Simon Allardice https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Fundamentals/83603-2.html
+
+
+<!--### Day 1: June 27, Monday
+
+<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 <!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
+<!--**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 <!--### Day 1: June 27, Monday
 
