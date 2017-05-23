@@ -50,7 +50,7 @@
 **Thoughts**: yay
 
 **Link to work**
-[Portfolio on Codepen] http://codepen.io/BohemianCodes/full/LygZdr <br>
+- [Portfolio on Codepen] http://codepen.io/BohemianCodes/full/LygZdr <br>
 --> from Challenge on freeCodeCamp: https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage
 
 ### Day 7: May 22, Monday
@@ -60,7 +60,7 @@
 **Thoughts**: I &hearts; lynda.com
 
 **Link to course**
-JavaScript Essential Training by Morten-Rand Hendriksen https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html
+- JavaScript Essential Training by Morten-Rand Hendriksen https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html
 
 
 ### Day 8: May 23, Tuesday
@@ -69,8 +69,8 @@ JavaScript Essential Training by Morten-Rand Hendriksen https://www.lynda.com/Ja
 
 **Thoughts**: I know I am supposed to actually code myself every day, but I can't commit to that always. As long as I have a full time job and return home drained, I am happy I am able to follow and understand some of the basics of JavaScript. 
 
-**Link to course**
-Programming Foundations: Fundamentals by Simon Allardice https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Fundamentals/83603-2.html
+**Link to course**:
+- Programming Foundations: Fundamentals by Simon Allardice https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Fundamentals/83603-2.html
 
 
 <!--### Day 1: June 27, Monday
