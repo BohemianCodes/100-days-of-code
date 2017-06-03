@@ -73,15 +73,17 @@
 - Programming Foundations: Fundamentals by Simon Allardice https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Fundamentals/83603-2.html
 
 
-<!--### Day 1: June 27, Monday
+***[HOLIDAYS in SILENCE]***
 
-<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 9: June 3, Saturday
 
-<!--**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: JavaScript Essential Traning on lynda.com. I didn't code, but my notebook is full with logic, operators and arrays.
+
+**Thoughts**: JavaScript is kiiinda difficult in the beginning.
+
+**Link to course**:
+- JavaScript Essential Training by Morten-Rand Hendriksen https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html
 
 <!--### Day 1: June 27, Monday
 
