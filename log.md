@@ -85,6 +85,26 @@
 **Link to course**:
 - JavaScript Essential Training by Morten-Rand Hendriksen https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html
 
+### Day 10: June 4, Sunday
+
+**Today's Progress**: Prepared for Skillcrush's course "Freelance Wordpress Developer" which starts tomorrow!
+
+**Thoughts** I've decided to make this log about the progress of my coding skills - not take it literal of ACTUAL coding every day. It is too early in my career. But I am so happy I took the leap into a real course!
+
+**Link to course:**
+- https://skillcrush.com/blueprint/learn-wordpress/
+
+
+<!--### Day 1: June 27, Monday
+
+<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+<!--**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
 <!--### Day 1: June 27, Monday
 
 <!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
