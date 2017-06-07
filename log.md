@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+## [***Update on Day 12:*** These are now 100 Days of LearningToCode]
+
 ### Day 1: May 16, 2017 
 
 **Today's Progress**: Started working on freeCodeCamp's jQuery challenges
