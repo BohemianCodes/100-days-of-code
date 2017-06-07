@@ -100,6 +100,28 @@
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp (JavaScript)
 
 
+### Day 12: June 7, Wednesday
+
+**Today's Progress**: I started Rob Percival's JavaScript section of his Web Developer course on Udemy and gone though some challenges with him. 
+
+**Thoughts** This is amazing, because after so much JavaScript theory in my other courses, Rob started right away with hands-on code that did stuff to a html site, like clickking buttons and changing the inner HTML of paragraphs. This motivated me a lot.
+
+**Link to course**:
+- The Complete Web Developer Course 2.0 by Rob Percival https://www.udemy.com/the-complete-web-developer-course-2/learn/v4/
+
+
+
+<!--### Day 1: June 27, Monday
+
+<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+<!--**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
 <!--### Day 1: June 27, Monday
 
 <!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
