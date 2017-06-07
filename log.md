@@ -102,9 +102,9 @@
 
 ### Day 12: June 7, Wednesday
 
-**Today's Progress**: I started Rob Percival's JavaScript section of his Web Developer course on Udemy and gone though some challenges with him. 
+**Today's Progress**: I started the JavaScript section of Rob Percival's Web Developer course on Udemy. 
 
-**Thoughts** This is amazing, because after so much JavaScript theory in my other courses, Rob started right away with hands-on code that did stuff to a html site, like clickking buttons and changing the inner HTML of paragraphs. This motivated me a lot.
+**Thoughts** This is amazing, because after so much JavaScript theory (Algorithms, Functions, Arrays etc.) in my other courses, Rob started right away with hands-on code that did stuff to a html site, like clicking buttons and changing the inner HTML of paragraphs. This motivated me a lot.
 
 **Link to course**:
 - The Complete Web Developer Course 2.0 by Rob Percival https://www.udemy.com/the-complete-web-developer-course-2/learn/v4/
