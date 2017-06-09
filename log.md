@@ -116,6 +116,7 @@
 
 **Today's Progress**: continued with: Skillcrush Daily Lesson (Wordpress Developer Course) and The Complete Web Developer Course 2.0 (Javascript)
 
+**Thoughts**: JavaScript is awesome.
 
 <!--### Day 1: June 27, Monday
 
