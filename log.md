@@ -114,7 +114,7 @@
 
 ### Day 13: June 8, Thursday
 
-**Today's Progress**: Skilcrush Daily Lesson (Wordpress Developer Course)
+**Today's Progress**: continued with: Skillcrush Daily Lesson (Wordpress Developer Course) and The Complete Web Developer Course 2.0 (Javascript)
 
 
 <!--### Day 1: June 27, Monday
