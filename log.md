@@ -118,6 +118,28 @@
 
 **Thoughts**: JavaScript is awesome.
 
+
+### Day 14: June 10, Saturday
+
+**Today's Progress**: Today, I learned from my Airbnb host how to use Git with my code and I uploaded my website!! I also continued "The Complete Web Dev 2.0" course as well as with Skillcrush - Wordpress.
+
+**Thoughts** Moving to Galway, a city with many IT students, was a great idea.
+
+**Link to work**:
+- https://github.com/BohemianCodes/BohemianCodes.com
+
+
+<!--### Day 1: June 27, Monday
+
+<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+<!--**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
 <!--### Day 1: June 27, Monday
 
 <!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
