@@ -129,15 +129,11 @@
 - https://github.com/BohemianCodes/BohemianCodes.com
 
 
-<!--### Day 1: June 27, Monday
+### Day 15: June 11, Sunday
 
-<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: WordPress on Skillcrush & I started a PHP course on Lynda.com
 
-<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-<!--**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts** I am thinking about starting to build a portfolio and start creating a few projects myself to get into the habit!
 
 
 <!--### Day 1: June 27, Monday
