@@ -136,6 +136,19 @@
 **Thoughts** I am thinking about starting to build a portfolio and start creating a few projects myself to get into the habit!
 
 
+### Day 16: June 12, Monday
+
+**Today's Progress**: 2 hours of Skillcrush-Wordpress course and a few challenges in Rob Percival's course (JavaScript Loops, If and For statements)
+
+**Thoughts** I am very happy to be a full time webdev student now. Having so much time to learn is a real priviledge and so much fun.
+Side note: Skillcrush and "The complete Web Dev course 2.0 have become fixed parts of my daily schedule and from now on I will only refer to them very shortly: "Skillcrush" and "WebDev2.0". I will also not incluse the links anymore.
+
+**Link(s) to courses**
+1. The Complete Web Developer Course 2.0 by Rob Percival https://www.udemy.com/the-complete-web-developer-course-2/learn/v4/
+2. Skillcrush's Freelance WordPress Developer Blueprint https://skillcrush.com/blueprint/learn-wordpress/
+
+
+
 <!--### Day 1: June 27, Monday
 
 <!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -145,3 +158,15 @@
 <!--**Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+<!--### Day 1: June 27, Monday
+
+<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+<!--**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
