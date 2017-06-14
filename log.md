@@ -149,6 +149,21 @@ Side note: Skillcrush and "The complete Web Dev course 2.0 have become fixed par
 
 
 
+### Day 17: June 13, Tuesday
+
+**Today's Progress**: Good progress on WebDev2.0
+
+
+### Day 18: June 14, Wednesday
+
+**Today's Progress**: I reached the final project on WebDev2.0's JavaScript section. I managed to make random boxes and circles appear in different colors when clicked. 
+
+**Thoughts** It is hard to believe that I managed half of the project in a short time all by myself. So motivated now!
+
+**Link(s) to work**
+1. Test your reaction-project https://codepen.io/BohemianCodes/pen/PjGyxy
+
+
 <!--### Day 1: June 27, Monday
 
 <!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -170,3 +185,25 @@ Side note: Skillcrush and "The complete Web Dev course 2.0 have become fixed par
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
+
+
+<!--### Day 1: June 27, Monday
+
+<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+<!--**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+<!--### Day 1: June 27, Monday
+
+<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+<!--**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
