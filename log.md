@@ -160,9 +160,6 @@ Side note: Skillcrush and "The complete Web Dev course 2.0 have become fixed par
 
 **Thoughts** It is hard to believe that I managed half of the project in a short time all by myself. So motivated now!
 
-**Link(s) to work**
-1. Test your reaction-project https://codepen.io/BohemianCodes/pen/PjGyxy
-
 
 <!--### Day 1: June 27, Monday
 
