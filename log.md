@@ -161,15 +161,15 @@ Side note: Skillcrush and "The complete Web Dev course 2.0 have become fixed par
 **Thoughts** It is hard to believe that I managed half of the project in a short time all by myself. So motivated now!
 
 
-<!--### Day 1: June 27, Monday
+### Day 19: June 15, Thursday
 
-<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I finished the JavaScript project on WebDev2.0!!!
 
-<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** It was a slow day with some "I'll throw the laptop out the window" moments... but with a glorious end!
 
-<!--**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work**
+- Test your reaction: http://bohemiancodes.com/reactiongame.htm
+
 
 
 <!--### Day 1: June 27, Monday
