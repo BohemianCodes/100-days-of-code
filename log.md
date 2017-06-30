@@ -170,19 +170,23 @@ Side note: Skillcrush and "The complete Web Dev course 2.0 have become fixed par
 **Link to work**
 - Test your reaction: http://bohemiancodes.com/reactiongame.htm
 
+***[Large Break due to moving around a lot and having no internet connection]***
 
 
-<!--### Day 1: June 27, Monday
+### Day 20: June 29, Thursday
 
-<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Went through many Modules in Skillcrish 105 - Git, Guthub & the command line
 
-<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+### Day 21: June 30, Friday
+
+**Today's Progress**: Went through many Modules in Skillcrish 105 and the jQuery section of the WebDev2-course
+
+**Thoughts** Getting back into JavaScript and jQuery after a 2-week break is difficult. I have already forgotten basics. Note to self: Try to code consistently and learn daily. 
 
 <!--**Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
-
 
 <!--### Day 1: June 27, Monday
 
