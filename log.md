@@ -175,12 +175,12 @@ Side note: Skillcrush and "The complete Web Dev course 2.0 have become fixed par
 
 ### Day 20: June 29, Thursday
 
-**Today's Progress**: Went through many Modules in Skillcrish 105 - Git, Guthub & the command line
+**Today's Progress**: Went through many modules in Skillcrush 105 - Git, Guthub & the command line
 
 
 ### Day 21: June 30, Friday
 
-**Today's Progress**: Went through many Modules in Skillcrish 105 and the jQuery section of the WebDev2-course
+**Today's Progress**: Went through many modules in Skillcrush 105 and afterwards, continued the jQuery section of the WebDev2-course.
 
 **Thoughts** Getting back into JavaScript and jQuery after a 2-week break is difficult. I have already forgotten basics. Note to self: Try to code consistently and learn daily. 
 
